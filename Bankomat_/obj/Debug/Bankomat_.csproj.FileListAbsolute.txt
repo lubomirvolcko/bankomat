@@ -1,0 +1,14 @@
+D:\SOVY\PRO\Bankomat_\Bankomat_\bin\Debug\Bankomat_.exe.config
+D:\SOVY\PRO\Bankomat_\Bankomat_\bin\Debug\Bankomat_.exe
+D:\SOVY\PRO\Bankomat_\Bankomat_\bin\Debug\Bankomat_.pdb
+D:\SOVY\PRO\Bankomat_\Bankomat_\obj\Debug\Bankomat_.csprojAssemblyReference.cache
+D:\SOVY\PRO\Bankomat_\Bankomat_\obj\Debug\Bankomat_.Form1.resources
+D:\SOVY\PRO\Bankomat_\Bankomat_\obj\Debug\Bankomat_.Properties.Resources.resources
+D:\SOVY\PRO\Bankomat_\Bankomat_\obj\Debug\Bankomat_.csproj.GenerateResource.cache
+D:\SOVY\PRO\Bankomat_\Bankomat_\obj\Debug\Bankomat_.csproj.CoreCompileInputs.cache
+D:\SOVY\PRO\Bankomat_\Bankomat_\obj\Debug\Bankomat_.exe
+D:\SOVY\PRO\Bankomat_\Bankomat_\obj\Debug\Bankomat_.pdb
+D:\SOVY\PRO\Bankomat_\Bankomat_\bin\Debug\MySql.Data.dll
+D:\SOVY\PRO\Bankomat_\Bankomat_\bin\Debug\Google.Protobuf.dll
+D:\SOVY\PRO\Bankomat_\Bankomat_\bin\Debug\MySql.Data.xml
+D:\SOVY\PRO\Bankomat_\Bankomat_\obj\Debug\Bankomat_.csproj.CopyComplete
